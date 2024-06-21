@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../trial web/assets"
+		},
+		{
+			"path": "../../trial web/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "images"
+	}
+}
